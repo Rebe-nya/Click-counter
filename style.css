@@ -1,0 +1,18 @@
+body {
+    justify-items: center;
+    margin: 0;
+}
+
+h1 {
+    color: blue;
+}
+
+section {
+    justify-self: center;
+    margin-block: 1vh;
+}
+
+#divNum {
+    color: green;
+    justify-self: center;
+}
